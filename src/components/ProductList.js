@@ -1,6 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
-import { getProducts } from "../actions/itemActions";
+import { getProducts } from "../actions/productActions";
 
 const ProductList = () => {
   return <div></div>;
